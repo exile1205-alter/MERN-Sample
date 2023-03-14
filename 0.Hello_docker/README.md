@@ -1,12 +1,15 @@
 # Getting Started with Docker
 Hello-world from docker
 
+In this class, you would learn 
+1. How to quickly check up docker installation status
+2. How to run up a docker container
 
 # Prerequisites
 Before you start to work with this sample, Docker has to be installed and all dependencies be provided as described in the following sections.
 
-### Install [Docker](https://www.docker.com/)
-Check the official [Docker documentation](https://docs.docker.com/engine/) for information how to install Docker on your operating system. And then install Docker and supporting tools.
+### Install Docker
+Check the official [Docker documentation](https://docs.docker.com/) for information how to install Docker on your operating system. And then install Docker and supporting tools.
 
 # Getting Started
 
