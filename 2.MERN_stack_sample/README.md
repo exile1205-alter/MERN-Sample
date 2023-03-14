@@ -77,15 +77,19 @@ docker-compose up
 Wait for building an image...
 
 ```bash
-Sending build context to Docker daemon  6.868MB
-Step 1/7 : FROM node:16-slim
-16-slim: Pulling from library/node
-8fd419aca81c: Pull complete 
-19524cdfef7d: Pull complete 
-2ca6c8cc8d3e: Pull complete 
-af519de7a852: Pull complete 
-97569810b0c3: Pull complete 
+Compiled successfully!
+react-ui        | 
+react-ui        | You can now view client in the browser.
+react-ui        | 
+react-ui        |   Local:            http://localhost:3000
+react-ui        |   On Your Network:  http://172.22.0.5:3000
+react-ui        | 
+react-ui        | Note that the development build is not optimized.
+react-ui        | To create a production build, use npm run build.
+react-ui        | 
 ...
 ```
 
-2. Open [http://localhost:3000](http://localhost:3000) and take a look around. 
+2. Open [http://localhost:3000](http://localhost:3000) and take a look around MERN Stack sample project.
+
+3. Open [http://localhost:8081](http://localhost:8081) and take a look around MongoExpress.
