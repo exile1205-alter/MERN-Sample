@@ -44,7 +44,7 @@ If you are using Ubuntu, you can use the following command:
 
 3. Open [http://localhost:3000](http://localhost:3000) and take a look around. The page would be similar to the following.
 
-    <html><head><title>Express</title><link rel="stylesheet" href="/stylesheets/style.css"></head><body><h1>Express</h1><p>Welcome to Express</p><p>Node.js version: v18.12.1</p></body></html>
+    <html><body><h1>Express</h1><p>Welcome to Express</p><p>Node.js version: v18.12.1</p></body></html>
 
     The Node.js version would be as same as your node version on your computer.
 
@@ -91,7 +91,7 @@ If you are using Ubuntu, you can use the following command:
     ```
 3. Open [http://localhost:3000](http://localhost:3000) and take a look around. The page would be similar to the following.
 
-    <html><head><title>Express</title><link rel="stylesheet" href="/stylesheets/style.css"></head><body><h1>Express</h1><p>Welcome to Express</p><p>Node.js version: v16.19.1</p></body></html>
+    <html><body><h1>Express</h1><p>Welcome to Express</p><p>Node.js version: v16.19.1</p></body></html>
 
 ### Package express with docker -- part 2
 
@@ -140,4 +140,4 @@ If you are using Ubuntu, you can use the following command:
 
 4. Open [http://localhost:3010](http://localhost:3010) and take a look around. The page would be similar to the following.
 
-    <html><head><title>Express</title><link rel="stylesheet" href="/stylesheets/style.css"></head><body><h1>Express</h1><p>Welcome to Express</p><p>Node.js version: v14.21.3</p></body></html>
+    <html><body><h1>Express</h1><p>Welcome to Express</p><p>Node.js version: v14.21.3</p></body></html>

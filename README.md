@@ -1,4 +1,4 @@
-# Getting Started with MERN Stack with Cloud Native
+#  Cloud Native with MERN Stack
 This is a sample code and practice for NYCU cloud native courses
 
 ## 0. Hello_docker
