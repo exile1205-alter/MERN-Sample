@@ -54,7 +54,7 @@ If you are using Ubuntu, you can use the following command:
     v18.12.1
     ```
 
-### Package express with docker
+### Using Docker to build up a node 16 environment
 
 1. Run the following command to build a docker image with node16:slim
 
@@ -93,7 +93,7 @@ If you are using Ubuntu, you can use the following command:
 
     <html><body><h1>Express</h1><p>Welcome to Express</p><p>Node.js version: v16.19.1</p></body></html>
 
-### Package express with docker -- part 2
+### Using Docker to build up a node 14 environment
 
 1. Modify Dockerfile, change the 'FROM node:16-slim' to 'FROM node:14-slim'
 
