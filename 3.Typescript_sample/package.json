@@ -1,0 +1,15 @@
+{
+  "name": "Typescript_calculator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@types/argparse": "^2.0.10",
+    "argparse": "^2.0.1"
+  },
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  }
+}

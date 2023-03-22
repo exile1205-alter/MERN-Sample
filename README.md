@@ -13,4 +13,6 @@ Learn how to build an image using a Dockerfile and run it through a container. T
 
 With Docker Compose, we can quickly assemble the components of MERN Stack, including the React App, Express App, MongoDB, and a MongoExpress that can view MongoDB content.
 
-## 3. TBD
+## 3. Typescript_sample
+
+Through a simple TypeScript project, we can learn about the application of types, classes, and interfaces in TypeScript, as well as how to compile a TypeScript project.
